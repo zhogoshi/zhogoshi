@@ -1,7 +1,7 @@
 <h2 align="center">Middle Java/Kotlin Developer 🏴</h2>
 <h4 align="center">🟣 about me 🟣</h4>
 <h6 align="center">my name is Vadim. i'm from Russia, Krasnoyarsk</h4>
-<h6 align="center">my age is 17 k? (retard kid ig)</h4>
+<h6 align="center">im 17 k? (also retard kid ig)</h4>
 <h4 align="center">🟣 links 🟣</h4>
 <h6 align="center">
   <a href="https://vk.com/hogoshi">VK</a>
