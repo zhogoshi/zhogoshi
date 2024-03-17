@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/zhogoshi/zhogoshi/assets/85288982/97d88757-5739-4635-b27a-9b10fbfd47e4">
+</div>
+<h2/>
 <h2 align="center">Jun+/Middle Java/Kotlin Developer 🏴</h2>
 <h3 align="center">🟣 about me 🟣</h3>
 <h6 align="center">my name is Vadim. i'm from Russia, Krasnoyarsk</h4>
