@@ -15,6 +15,8 @@
   <a href="https://t.me/hogoshi">Telegram</a>
   <a> | </a>
   <a href="https://steamcommunity.com/id/xhogoshi/">Steam</a>
+  <a> | </a>
+  <a href="https://ph.pinterest.com/zhogoshi/">Pinterest</a>
 </h6>
 <h2/>
 <h3 align="center">🟣 i'm interested in 🟣</h3>
