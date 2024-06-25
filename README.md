@@ -9,7 +9,7 @@
 <h6 align="center">I am 17 years old.</h6>
 <h6 align="center">
   <a>All my socials can be found </a>
-  <a href="https://imaginaried.t.me/5">here</a>
+  <a href="https://fgjuodiyghoisdjtgisegpjior.t.me/5">here</a>
 </h6>
 
 <h3 align="center">I'm Interested In</h3>
