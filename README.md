@@ -5,6 +5,9 @@
 
 18yo Java/Kotlin developer from Russia
 
+![](https://raw.githubusercontent.com/zhogoshi/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/zhogoshi/github-stats-transparent/output/generated/languages.svg)
+
 ### 📞 Connects
 All my contacts you can find [there](https://t.me/urner/8)
 
@@ -14,10 +17,6 @@ All my contacts you can find [there](https://t.me/urner/8)
 3. [Minecraft Kotlin Plugin Base](https://github.com/Himirai/kotlin-paper-plugin) - Template to start with coding Minecraft kotlin plugin w Paper core
 
 > I have not that much public repos, all my repos are in private, but, I'll do smthng soon ig >_<
-
-### 📊 GitHub Stats
-![](https://raw.githubusercontent.com/zhogoshi/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/zhogoshi/github-stats-transparent/output/generated/languages.svg)
 
 ### 🧠 Stack
 #### Java
