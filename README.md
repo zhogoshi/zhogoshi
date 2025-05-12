@@ -24,7 +24,7 @@ Spring, Spring Boot, Groovy, Micrometer, Maven, Gradle, JProfiler, ProGuard, Buk
 #### Kotlin
 Kotlin, Ktor, Ktlint, Exposed, Kotest, MockK, Detekt, Javalin
 #### JavaScript/TypeScript
-React, Next.js, Svelte, TypeScript, NestJS, Node.js, Redux, Axios, Express.js, Vue.js (дополнение), Angular (дополнение)
+React, Next.js, Svelte, TypeScript, NestJS, Node.js, Redux, Axios, Express.js, Vue.js, Angular
 #### Python
 Python3, Jupyter Notebook, FastAPI, Pandas, NumPy, Flask, Django
 #### DB
