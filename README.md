@@ -9,7 +9,7 @@
 ![](https://raw.githubusercontent.com/zhogoshi/github-stats-transparent/output/generated/languages.svg)
 
 ### 📞 Connects
-All my contacts you can find [there](https://t.me/urner/8)
+All my contacts you can find in [tg](https://t.me/urner/8) or on my [website](https://hogoshi.dev/)
 
 ### 💎 Repos
 1. [Animations](https://github.com/zhogoshi/animations) - Animate some values for UI or physics logic
