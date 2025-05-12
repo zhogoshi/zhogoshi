@@ -13,8 +13,7 @@ All my contacts you can find in [tg](https://t.me/urner/8) or on my [website](ht
 
 ### 💎 Repos
 1. [Animations](https://github.com/zhogoshi/animations) - Animate some values for UI or physics logic
-2. [Minecraft Java Plugin Base](https://github.com/Himirai/java-paper-plugin) - Template to start with coding Minecraft java plugin w Paper core
-3. [Minecraft Kotlin Plugin Base](https://github.com/Himirai/kotlin-paper-plugin) - Template to start with coding Minecraft kotlin plugin w Paper core
+2. [zhogoshi.dev](https://github.com/zhogoshi/hogoshi.dev) - My website using github pages + vite + react + ts
 
 > I have not that much public repos, all my repos are in private, but, I'll do smthng soon ig >_<
 
