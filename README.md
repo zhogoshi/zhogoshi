@@ -4,8 +4,6 @@
 # Hogoshi
 18yo Java/Kotlin developer from Russia
 
-![](https://profile-counter.glitch.me/zhogoshi/count.svg)
-
 ![](https://raw.githubusercontent.com/zhogoshi/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/zhogoshi/github-stats-transparent/output/generated/languages.svg)
 
