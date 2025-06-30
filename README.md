@@ -12,8 +12,9 @@ All my contacts you can find in [tg](https://t.me/zgkdlrsfhafjfkfmdnzvmv/6) or o
 
 ### 💎 Repos
 1. [Animations](https://github.com/zhogoshi/animations) - Animate some values for UI or physics logic
-2. [zhogoshi.dev](https://github.com/zhogoshi/hogoshi.dev) - My website using github pages + vite + react + ts
-3. [Sico](https://github.com/zhogoshi/sico) - Simple Spring-like IoC
+2. [Hogoshi.dev](https://github.com/zhogoshi/hogoshi.dev) - My website using github pages + vite + react + ts
+3. [Sico](https://github.com/zhogoshi/sico) - Simple, Lightweight Spring-like IoC
+4. [Tensai](https://github.com/zhogoshi/tensai) - Blazingly lightweight event bus
 
 > I have not that much public repos, all my repos are in private, but, I'll do smthng soon ig >_<
 
