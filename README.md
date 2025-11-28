@@ -2,7 +2,7 @@
 ![](https://github.com/user-attachments/assets/c5b65d84-b929-41ea-9f14-345fbd21c124)
 
 # Hogoshi
-18yo Java/Kotlin developer from Russia
+<img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=30&duration=2500&pause=100&color=6E6E6E&background=FF000000&width=1000&lines=Frontend+Developer;Backend+Developer;Software+Engineer;Designer" alt="Typing SVG" />
 
 ![](https://raw.githubusercontent.com/zhogoshi/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/zhogoshi/github-stats-transparent/output/generated/languages.svg)
